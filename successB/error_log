@@ -1,0 +1,15 @@
+[24-Feb-2021 19:35:40 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulabo/public_html/successB/index.php on line 2
+[24-Feb-2021 19:35:40 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulabo/public_html/successB/index.php on line 2
+[24-Feb-2021 19:35:40 UTC] PHP Warning:  include(): Failed opening 'registration.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/robulabo/public_html/successB/index.php on line 2
+[24-Feb-2021 19:35:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/robulabo/public_html/successB/index.php on line 8
+[24-Feb-2021 19:35:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/robulabo/public_html/successB/index.php on line 9
+[13-Jul-2021 04:44:44 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulab1/public_html/successB/index.php on line 2
+[13-Jul-2021 04:44:44 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulab1/public_html/successB/index.php on line 2
+[13-Jul-2021 04:44:44 UTC] PHP Warning:  include(): Failed opening 'registration.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/robulab1/public_html/successB/index.php on line 2
+[13-Jul-2021 04:44:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/robulab1/public_html/successB/index.php on line 8
+[13-Jul-2021 04:44:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/robulab1/public_html/successB/index.php on line 9
+[27-Oct-2021 05:21:59 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulab1/public_html/successB/index.php on line 2
+[27-Oct-2021 05:21:59 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulab1/public_html/successB/index.php on line 2
+[27-Oct-2021 05:21:59 UTC] PHP Warning:  include(): Failed opening 'registration.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/robulab1/public_html/successB/index.php on line 2
+[27-Oct-2021 05:21:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/robulab1/public_html/successB/index.php on line 8
+[27-Oct-2021 05:21:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/robulab1/public_html/successB/index.php on line 9

@@ -1,0 +1,10 @@
+[27-Jul-2020 11:06:53 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulabo/public_html/success/index.php on line 2
+[27-Jul-2020 11:06:53 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulabo/public_html/success/index.php on line 2
+[27-Jul-2020 11:06:53 UTC] PHP Warning:  include(): Failed opening 'registration.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/robulabo/public_html/success/index.php on line 2
+[27-Jul-2020 11:06:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/robulabo/public_html/success/index.php on line 8
+[27-Jul-2020 11:06:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/robulabo/public_html/success/index.php on line 9
+[27-Jul-2020 11:07:45 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulabo/public_html/success/index.php on line 2
+[27-Jul-2020 11:07:45 UTC] PHP Warning:  include(registration.php): failed to open stream: No such file or directory in /home/robulabo/public_html/success/index.php on line 2
+[27-Jul-2020 11:07:45 UTC] PHP Warning:  include(): Failed opening 'registration.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/robulabo/public_html/success/index.php on line 2
+[27-Jul-2020 11:07:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/robulabo/public_html/success/index.php on line 8
+[27-Jul-2020 11:07:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/robulabo/public_html/success/index.php on line 9
